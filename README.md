@@ -1,4 +1,4 @@
-# 👋 Hej, jag är Therese Ålstig!  
+# 👋 Hej, jag heter Therese Ålstig!  
 
 ### 💻 Fullstackutvecklare | 🚀 Kreativ problemlösare | 🎨 Designintresserad
 
